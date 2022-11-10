@@ -1,0 +1,354 @@
+/**
+ * File Name: style.css
+ * Folder Path: include/admin/css
+ * Plugin Name : Ipanema CV CSG
+ * Resources:
+ * https://codepen.io/EricPorter/pen/JjPmOOb
+ * 
+
+ **/
+
+ /* General */
+.row::after {
+    content: "";
+    clear: both;
+    display: block;
+}
+[class*="col-"] {
+    float: left;
+}
+@media only screen and (max-width: 600px) {
+   /* Per Telèfons: */
+   [class*="col-"] {
+      width: 100%;
+   }
+   .photo {
+      width: 40%;
+      height: auto;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      box-shadow: 3px 3px 4px rgb(123, 120, 120);
+   }
+   .name, .title {font-size: 20px;}
+   .resume {margin-left: 15px; margin-right: 15px;}
+   .menu li {font-size: 15px;}
+   #wordpress-media{width: 40%; height:auto;}
+   .tothetop {padding-top: 2%;}
+   .info-prof-exp,
+   .info-edu,
+   .tasks {font-size: 15px; text-align: center;padding-top: 5%;}
+   .plugin_resume {font-size: 15px; padding-top: 5%;}
+   .logos, .prf_4focs {width: 30%; height: auto;}
+   .prf_i2l {width: 50%; height: auto;}
+   .prf_wwoof {width: 20%; height: auto;}
+   .lg_eoi {width: 55%; height: auto;}
+   .custom-list {list-style-type: none!important;}
+   .testimonial-title-top {margin-top: 10px!important;}
+   .testimonial-title{font-size: 15px;}
+   .testimonial img {
+      float: left;
+      margin-right: 5px;
+      padding: 5px;
+      width: 20%
+   }
+   .hashtag{font-size: 12px;}
+   #css-title {font-size: 15px;}
+   .tech-testimonial {
+      border: 2px solid #ccc; 
+      border-radius: 5px; 
+      margin-left: auto!important;
+      margin-right: auto!important; 
+      margin-bottom: 8px!important;
+      width: 30%;
+   }
+   .tech-img {display: block;height: 70px;margin-left: auto;margin-right: auto;}
+   .plugin_resume {font-size: 15px;}
+   .plugins_img {width: 100%;height: auto;}
+}
+
+@media only screen and (min-width: 601px) {
+   /* Per Tablets: */
+   .col-t-1 {width: 8.33%;}
+   .col-t-2 {width: 16.66%;}
+   .col-t-3 {width: 25%;}
+   .col-t-4 {width: 33.33%;}
+   .col-t-5 {width: 41.66%;}
+   .col-t-6 {width: 50%;}
+   .col-t-7 {width: 58.33%;}
+   .col-t-8 {width: 66.66%;}
+   .col-t-9 {width: 75%;}
+   .col-t-10 {width: 83.33%;}
+   .col-t-11 {width: 91.66%;}
+   .col-t-12 {width: 100%;}
+   .photo {
+      width: 60%;
+      height: auto;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      box-shadow: 3px 3px 4px rgb(123, 120, 120);
+   }
+   .name, .title {font-size: 14px;}
+   .resume {margin-left: 20px; margin-right: 20px;}
+   .menu li {font-size: 11px;}
+   .social {width: 80%; height: auto;}
+   #wordpress-media{width: 80%; height:auto;}
+   .tothetop {padding-top: 2%;}
+   .info-prof-exp,
+   .info-edu,
+   .tasks {font-size: 12px;}
+   .logos,
+   .prf_wwoof {width: 40%; height: auto;}
+   .prf_i2l {width: 80%; height: auto;}
+   .prf_4focs {width: 65%; height: auto;}
+   .lg_eoi {width: 90%; height: auto;}
+   .custom-list {list-style-type: circle;}
+   .custom-list {margin-left: 25px;}
+   .testimonial-title-top {margin-top: 2px!important;}
+   .testimonial-title{font-size: 10px;}
+   .testimonial img {
+      float: left;
+      margin-right: 0px;
+      padding: 5px;
+      width: 35%
+   }
+   .hashtag{font-size: 10px;}
+   #css-title {font-size: 10px;}
+   .tech-img {display: block;width: 100%;height: 35px;}
+   .plugin_resume {font-size: 12px;}
+   .plugins_img {width: 75%;height: auto;}
+}
+
+@media only screen and (min-width: 768px) {
+   /* Per Ordenadors: */
+   .col-1 {width: 8.33%;}
+   .col-2 {width: 16.66%;}
+   .col-3 {width: 25%;}
+   .col-4 {width: 33.33%;}
+   .col-5 {width: 41.66%;}
+   .col-6 {width: 50%;}
+   .col-7 {width: 58.33%;}
+   .col-8 {width: 66.66%;}
+   .col-9 {width: 75%;}
+   .col-10 {width: 83.33%;}
+   .col-11 {width: 91.66%;}
+   .col-12 {width: 100%;}
+   .photo {
+      width: 60%;
+      height: auto;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      box-shadow: 3px 3px 4px rgb(123, 120, 120);
+   }
+   .name {font-size: 16px;}
+   .title {font-size: 14px;}
+   .resume {margin-right: 30px;}
+   .menu li {font-size: 11px;}
+   .tothetop {padding-top: 2%;}
+   .info-prof-exp,
+   .info-edu,
+   .tasks {font-size: 15px;}
+   .testimonial-title-top {margin-top: 6px!important;}
+   .testimonial-title{font-size: 12px;}
+   #css-title {font-size: 12px;}
+   .tech-img {display: block;width: 100%;height: 40px;}
+   .plugin_resume {font-size: 15px;}
+   .plugins_img {width: 70%;height: auto;}
+   
+}
+
+@media only screen and (min-width: 1025px) {
+   /* Per Ordenadors: pantalla gran */
+   .photo {
+      width: 45%;
+      height: auto;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      box-shadow: 3px 3px 4px rgb(123, 120, 120);
+   }
+   .name, .title {font-size: 24px;}
+   .menu li {font-size: 15px;}
+   .social {width: 85%; height: auto;}
+   #wordpress-media{width: 45%; height:auto;}
+   .tothetop {padding-top: 1%;}
+   .logos {width: 30%; height: auto;}
+   .prf_i2l {width: 55%; height: auto;}
+   .prf_4focs {width: 45%; height: auto;}
+   .prf_wwoof {width: 25%; height: auto;}
+   .lg_eoi {width: 65%; height: auto;}
+   .custom-list {margin-left: 25px;}
+   .testimonial-title-top {margin-top: 10px!important;}
+   .testimonial-title {font-size: 15px;}
+   .testimonial img {
+      float: left;
+      margin-right: 5px;
+      padding: 5px;
+      width: 20%
+   }
+   .hashtag {font-size: 12px;}
+   #css-title {font-size: 15px;}
+   .tech-img {display: block;width: 100%;height: 80px;}
+   #skills_Chart {
+      margin-left: auto;
+      margin-right: auto;
+   }
+   .plugin_resume {font-size: 15px;}
+   .plugins_img {width: 55%;height: auto;}
+}
+
+.montserrat{ font-family: 'Montserrat', sans-serif; }
+.anton{ font-family: 'Anton', sans-serif; }
+.bubblegum { font-family: 'Bubblegum Sans', cursive; }
+.center, .menu li { text-align: center; }
+.name {padding-top: 3%;}
+.title {color: #023c4e;}
+.resume {font-size: 15px; text-align: justify;}
+.no-link, 
+.no-link:active, 
+.no-link:focus {text-decoration: none; color: #ffffff;}
+.no-link-in-black, 
+.no-link-in-black:active, 
+.no-link-in-black:focus {text-decoration: none; color: #000;}
+.menu {padding-top: 0!important;}
+.menu ul {list-style-type: none; margin: 0; padding: 0;}
+.menu li {
+   padding: 8px; 
+   margin-bottom: 7px; 
+   background-color: #9c9ea0; 
+   box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+.no-link-oweather,
+.no-link-oweather:active,
+.no-link-oweather:focus,
+.no-link-oweather:hover {text-decoration: none; color: #e96e50;}
+.menu li:hover {background-color: #023c4e; color: #ffffff;}
+.empty-row {height: 50px;}
+.profile-box {position: relative; float: right;}
+.no-shadow {box-shadow: none !important;}
+.social-buttons {display: inline-block; padding-top: 1%;}
+.social-buttons:hover, 
+#wordpress-media:hover {-ms-transform: scale(1.1); -webkit-transform: scale(1.1); transform: scale(1.1);}
+#wordpress-media {position: relative; float: right;}
+.info-prof-exp,
+.info-edu {text-align: center;}
+.logos,
+.sc-uniba,
+.sc-adams,
+.prf_i2l,
+.prf_4focs,
+.prf_wwoof,
+.lg_eoi {display: block; margin-left: auto; margin-right: auto;}
+.sc-uniba {width: 80%; height: auto;}
+.sc-adams {width: 20%; height: auto;}
+.tasks {padding-left: 1%; padding-right: 3%;}
+.testimonial {border: 2px solid #ccc; border-radius: 5px; margin: 0 0 8px;}
+.testimonial::after {content: ""; clear: both; display: table;}
+.tech-testimonial {border: 2px solid #ccc; border-radius: 5px; margin: 0 0 8px;}
+.tech-testimonial::after  {content: ""; clear: both; display: table;}
+.hashtag {color: #2196F3;}
+#css-title {overflow: hidden; display: flex;}
+.carousel-css div {height: 30px;}
+.carousel-css div li {height: 45px; margin-bottom: 45px; display: block;}
+.flip { animation: flip 12s cubic-bezier(0.23, 1, 0.32, 1.2) infinite; padding-left: 0!important;}
+ @keyframes flip {
+   0% { margin-top: -450px; }
+   5% { margin-top: -360px; }
+   20% { margin-top: -360px; }
+   25% { margin-top: -270px; }
+   40% { margin-top: -270px; }
+   45% { margin-top: -180px; }
+   60% { margin-top: -180px; }
+   65% { margin-top: -90px; }
+   80% { margin-top: -90px; }
+   85% { margin-top: 0px; }
+   99.99% { margin-top: 0px; }
+   100% { margin-top: -450px; }
+}
+.plugin_resume {text-align: justify;}
+.modal-WeatherApp {margin-left: auto;}
+.close-weatherapp {width: 100%;height: auto;}
+.oweather {float: right;}
+
+/**
+* Help Tabs
+*
+*/
+.in-black {color: #000!important;}
+.btt-in-black{background-color: #000!important;}
+.album {width: 100%!important;height: 75%;}
+.broadcast {display: block;margin-left: auto;margin-right: auto;margin-bottom: 70px;}
+.bd-img {border-radius: 5px!important;
+   width: auto !important;
+   height: 300px !important;}
+.wiki_film {width: 100%;height: auto;}
+.no-underline,
+.no-underline:active,
+.no-underline:focus {text-decoration: none!important;}
+
+/**
+* Collapsible
+*
+*/
+.diff-collapsible {padding-top: 5px; padding-bottom: 5px;}
+.collapsible {
+   background-color: #9c9ea0;
+   color: #ffffff;
+   cursor: pointer;
+   padding: 18px;
+   width: 100%;
+   border: none;
+   text-align: left;
+   outline: none;
+   font-size: 15px;
+}
+ .collapsible.active, 
+ .collapsible:hover {background-color: #023c4e;}
+ .content {
+   padding: 0 18px;
+   max-height: 0;
+   overflow: hidden;
+   transition: max-height 0.2s ease-out;
+   background-color: #f1f1f1;
+}
+.collapsible:after {content: '\002B'; float: right;}
+.collapsible.active:after {content: "\002D";}
+
+/**
+* Skill Bar
+*
+*/
+.container {
+   width: 100%;
+   background-color: #ddd;
+   margin-top: 15px;
+   margin-bottom: 15px;
+   padding-left: 0px!important;
+}
+.skills {
+   height: 5px;
+   text-align: right;
+   padding-top: 10px;
+   padding-bottom: 20px;
+   color: white;
+   font-size: 15px;
+   
+}
+.wp {background-color: #21759b;}
+.joo {background-color: #7AC143;}
+.dj {background-color: #092e20;}
+.crud {background-color: #0d4357;}
+.iot {background-color: #8f0000;}
+.gimp {background-color: #3a3a3a;}
+.off {background-color: #ff5722;}
+.gis {background-color: #000000;}
+.gmc {background-color: #fbbc05;}
+
+
+ 
+ 
+
+ 
+

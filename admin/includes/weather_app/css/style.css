@@ -1,0 +1,47 @@
+/**
+ * File Name: style.css
+ * Folder Path: include/admin/section/weather_app/css
+ * Plugin Name : Ipanema CV CSG
+ * Resources:
+ * 
+ * 
+ **/
+
+.weather-container {background-color: #fff!important;color: #023c4e;}
+::placeholder {text-align: center;}
+.weather-separator {height: 1px;width: 100%;margin: 25px 0;background: #ccc;position: relative;display: flex;align-items: center;justify-content: center;}
+.weather-separator::before {content: attr(data-before);color: #b3b3b3;font-size: 19px;padding: 0 15px;background: #fff;}
+.alert {text-align: center!important;}
+.get-location {width: 100%;height: auto;}
+.middle-cursor:focus {text-align: center!important;}
+.time-separator {height: 1px;width: 100%;margin: 25px 0;background: #ccc;position: relative;display: flex;align-items: center;justify-content: center;}
+.time-separator::before {color: #b3b3b3;font-size: 19px;padding: 0 15px;background: #fff;}
+.today {font-size: 15px;text-align: center;font-weight: 600;}
+.tothetop_app {margin-top: 15px;}
+.fromthetop {margin-top: 5px;}
+.limit-col {border-right: 1px solid #ccc;}
+.w-image {width: 125px;display: block;margin-left: auto;margin-right: auto;}
+.w-param {text-align: center;}
+.w-temp {font-size: 45px;}
+.w-desc {font-size: 20px;padding-top: 5%;}
+.more-data-box {padding-top: 10%;}
+.data-box {text-align: center;}
+.location {font-size: 15px;}
+.w-icon-loc,
+.location {display: inline-block;}
+.w-icon-coo,
+.location {display: inline-block;}
+.w-icon-temp, 
+.feeling {display: inline-block;}
+.w-icon-hum,
+.humidity {display: inline-block;}
+.wind,
+.pressure {font-size: 13px!important;}
+.w-icon-wind,
+.wind {display: inline-block;}
+.w-icon-press,
+.pressure {display: inline-block;}
+.w-details {font-size: 15px;padding-left: 5%;}
+.data-detail {padding-left: 15%;}
+.iframe-maps {width: 100%;height: 200px;}
+

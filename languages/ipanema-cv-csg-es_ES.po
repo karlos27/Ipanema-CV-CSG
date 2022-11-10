@@ -1,0 +1,1542 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-11-08 16:09+0100\n"
+"PO-Revision-Date: 2022-11-08 16:09+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/includes/cover_letter.php:19 admin/includes/personal_info.php:27
+msgid "Carlos Segarra González"
+msgstr "Carlos Segarra González"
+
+#: admin/includes/cover_letter.php:23
+msgid "(+34) 647 35 48 84"
+msgstr "(+34) 647 35 48 84"
+
+#: admin/includes/cover_letter.php:27 admin/includes/personal_info.php:77
+msgid "jobscarlos27@gmail.com"
+msgstr "jobscarlos27@gmail.com"
+
+#: admin/includes/cover_letter.php:28
+msgid "Banyoles (17820)"
+msgstr "Banyoles (17820)"
+
+#: admin/includes/cover_letter.php:49
+msgid "Dear Ms./Mr.,"
+msgstr "Apreciado/ada,"
+
+#: admin/includes/cover_letter.php:51
+msgid ""
+"I'm so happy to present myself to you in this way, through my own WordPress "
+"plugin CV. To be honest,\n"
+"                                      this is the result of many days of "
+"work, getting deep into the WordPress core and learning\n"
+"                                      the process of a plugin creation."
+msgstr ""
+"Estoy muy contento de presentarme a través de mi CV en formato plugin para "
+"WordPress. Sinceramente,\n"
+"                                      éste es el resultado de muchos días de "
+"trabajo, profundizando en el núcleo de WordPress y aprendiendo\n"
+"                                      el proceso de creación de un plugin."
+
+#: admin/includes/cover_letter.php:55
+msgid ""
+"As you could see in my resume, I have developed two plugins. The first one, "
+"the \"Ipanema Film Reviews\" \n"
+"                                      plugin, gave me the opportunity to "
+"start over from another point of view. In fact, when I wanted to create \n"
+"                                      (or update) data in WordPress sites, I "
+"used to work from the \"functions.php\" file or adapting plugins from\n"
+"                                      other developers but, I had never "
+"created any plugin or similar. The other one, the \"Ipanema Twitter Feed\"\n"
+"                                      plugin, helped me to understand better "
+"how the functions are established in WordPress and how they work, \n"
+"                                      with its hooks and filters, saving "
+"data in the database, etc..."
+msgstr ""
+"Como pueden ver en mi currículum, he desarrollado dos plugins. El primero de "
+"ellos, el \"Ipanema Film Reviews\",\n"
+"                                      me dio la oportunidad de empezar de "
+"nuevo desde otra perspectiva. De hecho, cuando quería crear\n"
+"                                      (o actualizar) datos en sitios de "
+"WordPress, solía trabajar desde el archivo \"functions.php\" o adaptando "
+"plugins de\n"
+"                                      otros desarrolladores pero, nunca "
+"antes había creado ningúno. El otro plugin, el \"Ipanema Twitter Feed\",\n"
+"                                      me ayudó a comprender mejor cómo se "
+"establecen y cómo trabajan las funciones en WordPress,\n"
+"                                      con sus \"hooks\" y \"filters\", "
+"guardando información en la base de datos, etc..."
+
+#: admin/includes/cover_letter.php:62
+msgid ""
+"On the other hand, the hosting process in wordpress.org helped me even more "
+"and I think is important\n"
+"                                      to have in mind that there are people "
+"who check your code for the plugin approval, not machines or bots.\n"
+"                                      They help you in many ways, giving you "
+"the opportunity to rewrite the code as many times as it\n"
+"                                      needs or giving you advice to keep "
+"safe your code (i.e. data sanitization/escaping)."
+msgstr ""
+"Por otro lado, el proceso de alojamiento en wordpress.org me ayudó aún más y "
+"creo que es importante\n"
+"                                      tener en cuenta, que hay personas y no "
+"máquinas o bots que verifican el código del plugin para su aprobación.\n"
+"                                      Te ayudan de muchas maneras, dándote "
+"la oportunidad de reescribir el código tantas veces como sea necesario\n"
+"                                      o dándote indicaciones para mantener "
+"su fiabilidad (por ejemplo, respecto a los procesos de saneamiento/escape de "
+"datos)."
+
+#: admin/includes/cover_letter.php:67
+msgid ""
+"The \"Ipanema CV CSG\" plugin it's not only my CV. It's the way that I want "
+"to tell you that I really\n"
+"                                      like to work with WordPress "
+"applications. I enjoy developing new content or updating the existing one \n"
+"                                      and I have experience working with "
+"this kind of application. I'm passionate about WordPress and I want\n"
+"                                      to keep learning to be a better "
+"developer. If you are looking for a guy who likes to work with WordPress \n"
+"                                      and has some experience on the "
+"field... I'm that guy."
+msgstr ""
+"El plugin \"Ipanema CV CSG\" no es solo mi CV. Es mi manera de decirles que\n"
+"                                      me gusta trabajar con WordPress. "
+"Disfruto desarrollando contenido nuevo o actualizando el existente\n"
+"                                      y tengo experiencia trabajando con "
+"este tipo de aplicaciones. Soy un apasionado de WordPress y quiero\n"
+"                                      seguir aprendiendo para ser mejor "
+"desarrollador. Si buscan a alguien que le guste trabajar con WordPress\n"
+"                                      y tenga experiencia trabajando en "
+"ello... Yo soy esa persona."
+
+#: admin/includes/cover_letter.php:73
+msgid "Thank you."
+msgstr "Gracias."
+
+#: admin/includes/cover_letter.php:75
+msgid "Best regards,"
+msgstr "Atentamente,"
+
+#: admin/includes/cover_letter.php:77
+msgid "Carlos"
+msgstr "Carlos"
+
+#: admin/includes/edu_adams.php:19 admin/includes/prof_exp_icon.php:19
+msgid "October 2017"
+msgstr "Octubre 2017"
+
+#: admin/includes/edu_adams.php:20 admin/includes/edu_udg.php:20
+#: admin/includes/prof_exp_matic.php:20
+msgid "Girona"
+msgstr "Girona"
+
+#: admin/includes/edu_adams.php:25 admin/includes/edu_adams.php:30
+msgid "Adams Girona"
+msgstr "Adams Girona"
+
+#: admin/includes/edu_adams.php:39
+msgid "Three module course:"
+msgstr "Curso de tres módulos:"
+
+#: admin/includes/edu_adams.php:43 admin/includes/prof_exp_icon.php:43
+#: admin/includes/prof_exp_icon.php:86 admin/includes/prof_exp_icon.php:90
+msgid "HTML5 & CSS3"
+msgstr "HTML5 & CSS3"
+
+#: admin/includes/edu_adams.php:45 admin/includes/edu_adams.php:71
+#: admin/includes/edu_adams.php:76 admin/includes/tech_skills.php:101
+msgid "PHP & MySQL"
+msgstr "PHP & MySQL"
+
+#: admin/includes/edu_adams.php:53 admin/includes/edu_adams.php:95
+#: admin/includes/edu_adams.php:100 admin/includes/tab_resources.php:95
+#: admin/includes/tech_skills.php:112
+msgid "Bootstrap"
+msgstr "Bootstrap"
+
+#: admin/includes/edu_adams.php:56
+msgid "Django & Web deployment"
+msgstr "Django & Despliegue de aplicaciones web"
+
+#: admin/includes/edu_adams.php:79 admin/includes/prof_exp_matic.php:135
+msgid "#php"
+msgstr "#php"
+
+#: admin/includes/edu_adams.php:82 admin/includes/prof_exp_matic.php:138
+msgid "#mysql"
+msgstr "#mysql"
+
+#: admin/includes/edu_adams.php:103
+msgid "#bootstrap"
+msgstr "#bootstrap"
+
+#: admin/includes/edu_adams.php:106 admin/includes/prof_exp_icon.php:99
+#: admin/includes/prof_exp_matic.php:89
+msgid "#webdesign"
+msgstr "#diseñoweb"
+
+#: admin/includes/edu_adams.php:119 admin/includes/edu_adams.php:124
+#: admin/includes/tech_skills.php:78
+msgid "Django"
+msgstr "Django"
+
+#: admin/includes/edu_adams.php:127
+msgid "#django"
+msgstr "#django"
+
+#: admin/includes/edu_adams.php:130
+msgid "#python"
+msgstr "#python"
+
+#: admin/includes/edu_adams.php:146
+msgid "Weather App"
+msgstr "App El Tiempo"
+
+#: admin/includes/edu_adams.php:159
+msgid "Enjoy!"
+msgstr "Genial!"
+
+#: admin/includes/edu_rodoreda.php:19
+msgid "June 2006"
+msgstr "Junio 2006"
+
+#: admin/includes/edu_rodoreda.php:20
+msgid "L'Hospitalet del Llobregat"
+msgstr "L'Hospitalet del Llobregat"
+
+#: admin/includes/edu_rodoreda.php:25 admin/includes/edu_rodoreda.php:30
+msgid "Mercè Rodoreda Secondary School"
+msgstr "Instituto de Educación Secundaria Mercè Rodoreda"
+
+#: admin/includes/edu_rodoreda.php:39
+msgid "Air quality analysis"
+msgstr "Análisis de la calidad del aire"
+
+#: admin/includes/edu_rodoreda.php:43
+msgid "Water quality analysis"
+msgstr "Análisis de la calidad del agua"
+
+#: admin/includes/edu_rodoreda.php:47
+msgid "Soil quality analysis"
+msgstr "Análisis de la calidad de los suelos"
+
+#: admin/includes/edu_rodoreda.php:51
+msgid "Microbiology"
+msgstr "Microbiología"
+
+#: admin/includes/edu_rodoreda.php:55
+msgid "Safe Lab practices"
+msgstr "Seguridad y Buenas Prácticas en el Laboratorio"
+
+#: admin/includes/edu_rodoreda.php:59 admin/includes/edu_udg.php:63
+msgid "Office productivity software"
+msgstr "Software Office"
+
+#: admin/includes/edu_rodoreda.php:63 admin/includes/edu_udg.php:67
+msgid "Microsoft Word"
+msgstr "Microsoft Word"
+
+#: admin/includes/edu_rodoreda.php:65 admin/includes/edu_udg.php:69
+msgid "Microsoft Excel"
+msgstr "Microsoft Excel"
+
+#: admin/includes/edu_rodoreda.php:67 admin/includes/edu_udg.php:71
+msgid "Microsoft Access"
+msgstr "Microsoft Access"
+
+#: admin/includes/edu_rodoreda.php:79 admin/includes/edu_rodoreda.php:83
+#: admin/includes/prof_exp_i2l.php:65 admin/includes/prof_exp_i2l.php:69
+#: admin/includes/prof_skills.php:20
+msgid "Lab"
+msgstr "Laboratorio"
+
+#: admin/includes/edu_rodoreda.php:86 admin/includes/prof_exp_i2l.php:72
+msgid "#lab"
+msgstr "#lab"
+
+#: admin/includes/edu_rodoreda.php:89 admin/includes/prof_exp_i2l.php:75
+msgid "#science"
+msgstr "#ciencia"
+
+#: admin/includes/edu_rodoreda.php:102 admin/includes/edu_rodoreda.php:107
+#: admin/includes/edu_udg.php:113 admin/includes/edu_udg.php:118
+#: admin/includes/tech_skills.php:191
+msgid "Microsoft Office"
+msgstr "Microsoft Office"
+
+#: admin/includes/edu_rodoreda.php:110 admin/includes/edu_udg.php:121
+msgid "#word"
+msgstr "#word"
+
+#: admin/includes/edu_rodoreda.php:113 admin/includes/edu_udg.php:124
+msgid "#excel"
+msgstr "#excel"
+
+#: admin/includes/edu_rodoreda.php:116 admin/includes/edu_udg.php:127
+msgid "#access"
+msgstr "#access"
+
+#: admin/includes/edu_udg.php:19
+msgid "May 2012"
+msgstr "Mayo 2012"
+
+#: admin/includes/edu_udg.php:25
+msgid "Girona's University (UdG)"
+msgstr "Universidad de Girona (UdG)"
+
+#: admin/includes/edu_udg.php:30
+msgid "Girona's University"
+msgstr "Universidad de Girona"
+
+#: admin/includes/edu_udg.php:39
+msgid "Environmental impact assessment"
+msgstr "Evaluación de Impacto Ambiental"
+
+#: admin/includes/edu_udg.php:43
+msgid "Environmental management"
+msgstr "Gestión ambiental"
+
+#: admin/includes/edu_udg.php:47
+msgid "Environmental education"
+msgstr "Educación ambiental"
+
+#: admin/includes/edu_udg.php:51
+msgid "Ecology"
+msgstr "Ecología"
+
+#: admin/includes/edu_udg.php:55
+msgid "Geographic Information Systems (GIS)"
+msgstr "Sistemas de Información Geográfica (SIG)"
+
+#: admin/includes/edu_udg.php:59
+msgid "Engineering bases"
+msgstr "Bases de la Ingeniería"
+
+#: admin/includes/edu_udg.php:86 admin/includes/edu_udg.php:91
+#: admin/includes/tech_skills.php:199
+msgid "GIS"
+msgstr "SIG"
+
+#: admin/includes/edu_udg.php:94
+msgid "#gis"
+msgstr "#gis"
+
+#: admin/includes/edu_udg.php:97
+msgid "#map"
+msgstr "#mapa"
+
+#: admin/includes/edu_udg.php:100
+msgid "#arcgis"
+msgstr "#arcgis"
+
+#: admin/includes/edu_uniba.php:19
+msgid "April 2022"
+msgstr "Abril 2022"
+
+#: admin/includes/edu_uniba.php:20
+msgid "Barcelona (online)"
+msgstr "Barcelona (online)"
+
+#: admin/includes/edu_uniba.php:25
+msgid "Barcelona's International University Center (UNIBA)"
+msgstr "Centro Universitario Internacional de Barcelona (UNIBA)"
+
+#: admin/includes/edu_uniba.php:30
+msgid "Barcelona's International University Center"
+msgstr "Centro Universitario Internacional de Barcelona"
+
+#: admin/includes/edu_uniba.php:39
+msgid ""
+"Monitoring a photovoltaic solar system to improve its energy efficiency "
+"based on the Internet of Things (TFM)"
+msgstr ""
+"Monitorización de un sistema de energía solar fotovoltaico para la mejora de "
+"la eficiencia energética basado en el Internet de las Cosas (TFM)"
+
+#: admin/includes/edu_uniba.php:43
+msgid "Thermometer & Pyranometer devices"
+msgstr "Termómetro y Piranómetro"
+
+#: admin/includes/edu_uniba.php:45
+msgid "Raspberry Pi"
+msgstr "Raspberry Pi"
+
+#: admin/includes/edu_uniba.php:47 admin/includes/edu_uniba.php:68
+#: admin/includes/edu_uniba.php:73 admin/includes/tech_skills.php:153
+msgid "Node-RED"
+msgstr "Node-RED"
+
+#: admin/includes/edu_uniba.php:49 admin/includes/edu_uniba.php:92
+#: admin/includes/edu_uniba.php:97 admin/includes/tech_skills.php:164
+msgid "Ubidots"
+msgstr "Ubidots"
+
+#: admin/includes/edu_uniba.php:51 admin/includes/edu_uniba.php:116
+#: admin/includes/edu_uniba.php:121 admin/includes/prof_exp_spora.php:125
+#: admin/includes/prof_exp_spora.php:130 admin/includes/tech_skills.php:142
+msgid "Internet of Things"
+msgstr "Internet de las Cosas"
+
+#: admin/includes/edu_uniba.php:53 admin/includes/edu_uniba.php:140
+#: admin/includes/edu_uniba.php:144 admin/includes/prof_skills.php:90
+msgid "SWOT Analysis"
+msgstr "Análisis DAFO"
+
+#: admin/includes/edu_uniba.php:76
+msgid "#node-red"
+msgstr "#node-red"
+
+#: admin/includes/edu_uniba.php:79 admin/includes/prof_exp_matic.php:141
+msgid "#javascript"
+msgstr "#javascript"
+
+#: admin/includes/edu_uniba.php:100
+msgid "#ubidots"
+msgstr "#ubidots"
+
+#: admin/includes/edu_uniba.php:103 admin/includes/edu_uniba.php:124
+#: admin/includes/prof_exp_spora.php:133
+msgid "#iot"
+msgstr "#iot"
+
+#: admin/includes/edu_uniba.php:127 admin/includes/prof_exp_spora.php:136
+msgid "#mqtt"
+msgstr "#mqtt"
+
+#: admin/includes/edu_uniba.php:130 admin/includes/prof_exp_spora.php:139
+msgid "#datascience"
+msgstr "#datascience"
+
+#: admin/includes/edu_uniba.php:147
+msgid "#swot"
+msgstr "#dafo"
+
+#: admin/includes/edu_uniba.php:150
+msgid "#analysis"
+msgstr "#análisis"
+
+#: admin/includes/lang_english_b1.php:19
+msgid "June 2022"
+msgstr "Junio 2022"
+
+#: admin/includes/lang_english_b1.php:20 admin/includes/lang_english_b2.php:20
+msgid "Banyoles"
+msgstr "Banyoles"
+
+#: admin/includes/lang_english_b1.php:25 admin/includes/lang_english_b1.php:30
+#: admin/includes/lang_english_b2.php:25 admin/includes/lang_english_b2.php:30
+msgid "EOI Banyoles"
+msgstr "EOI Banyoles"
+
+#: admin/includes/lang_english_b1.php:39
+msgid ""
+"According to the Common European Framework of Reference for Languages (CEFR) "
+"guidelines:"
+msgstr ""
+"Según las directrices del Marco Común Europeo de Referencia para las Lenguas "
+"(MCER):"
+
+#: admin/includes/lang_english_b1.php:43
+msgid ""
+"Can understand the main points of clear standard input on familiar matters "
+"regularly encountered in work, school, leisure, etc"
+msgstr ""
+"Puede comprender los puntos principales de una conversación estándar clara "
+"sobre asuntos familiares que se encuentran regularmente en el trabajo, la "
+"escuela, el ocio, etc"
+
+#: admin/includes/lang_english_b1.php:45
+msgid ""
+"Can deal with most situations likely to arise while traveling in an area "
+"where the language is spoken"
+msgstr ""
+"Puede lidiar con la mayoría de las situaciones que pueden surgir mientras "
+"viaja en un área donde se habla el idioma"
+
+#: admin/includes/lang_english_b1.php:47
+msgid ""
+"Can produce simple connected text on topics that are familiar or of personal "
+"interest"
+msgstr ""
+"Puede producir texto conectado simple sobre temas que son familiares o de "
+"interés personal"
+
+#: admin/includes/lang_english_b1.php:55 admin/includes/lang_english_b2.php:55
+msgid "CEFR Guidelines"
+msgstr "Directrices del MCER"
+
+#: admin/includes/lang_english_b1.php:66 admin/includes/lang_english_b1.php:70
+#: admin/includes/lang_english_b2.php:66 admin/includes/lang_english_b2.php:70
+#: admin/includes/prof_exp_wwoof.php:63 admin/includes/prof_exp_wwoof.php:67
+#: admin/includes/prof_skills.php:76 admin/ipanema-cv-csg-admin.php:189
+msgid "Languages"
+msgstr "Idiomas"
+
+#: admin/includes/lang_english_b1.php:73 admin/includes/lang_english_b2.php:73
+#: admin/includes/prof_exp_wwoof.php:70
+msgid "#languages"
+msgstr "#idiomas"
+
+#: admin/includes/lang_english_b1.php:76 admin/includes/lang_english_b2.php:76
+#: admin/includes/prof_exp_wwoof.php:73
+msgid "#english"
+msgstr "#inglés"
+
+#: admin/includes/lang_english_b1.php:86 admin/includes/lang_english_b1.php:90
+#: admin/includes/lang_english_b2.php:86 admin/includes/lang_english_b2.php:90
+#: admin/includes/prof_skills.php:97
+msgid "Communication"
+msgstr "Comunicación"
+
+#: admin/includes/lang_english_b1.php:93 admin/includes/lang_english_b2.php:93
+msgid "#communication"
+msgstr "#comunicación"
+
+#: admin/includes/lang_english_b2.php:19
+msgid "Present"
+msgstr "Actualidad"
+
+#: admin/includes/lang_english_b2.php:39
+msgid ""
+"According to the Common European Framework of Reference for Languages (CEFR):"
+msgstr ""
+"Según las directrices del Marco Común Europeo de Referencia para las Lenguas "
+"(MCER):"
+
+#: admin/includes/lang_english_b2.php:43
+msgid ""
+"Can understand the main ideas of complex text on both concrete and abstract "
+"topics, including technical discussions in their field of specialization"
+msgstr ""
+"Puede comprender las ideas principales de un texto complejo sobre temas "
+"tanto concretos como abstractos, incluidas las discusiones técnicas en su "
+"campo de especialización"
+
+#: admin/includes/lang_english_b2.php:45
+msgid ""
+"Can interact with a degree of fluency and spontaneity that makes regular "
+"interaction with native speakers quite possible without strain for either "
+"party"
+msgstr ""
+"Puede interactuar con un grado de fluidez y espontaneidad que hace posible "
+"la interacción regular con hablantes nativos sin tensión para ninguna de las "
+"partes"
+
+#: admin/includes/lang_english_b2.php:47
+msgid ""
+"Can produce clear, detailed text on a wide range of subjects and explain a "
+"viewpoint on a topical issue giving the advantages and disadvantages of "
+"various options"
+msgstr ""
+"Puede producir textos claros y detallados sobre una amplia gama de temas y "
+"explicar un punto de vista sobre un tema de actualidad dando las ventajas y "
+"desventajas de varias opciones"
+
+#: admin/includes/personal_info.php:22
+msgid "Photo"
+msgstr "Foto"
+
+#: admin/includes/personal_info.php:32 admin/ipanema-cv-csg-admin.php:266
+#: admin/ipanema-cv-csg-admin.php:279
+msgid "Front-end Web Developer"
+msgstr "Desarrollador Front-end"
+
+#: admin/includes/personal_info.php:39
+msgid ""
+"I'm a web developer since 2017. I currently live in Banyoles and my short-"
+"medium term goal \n"
+"                            is to find a job that allows me to work as a web "
+"developer in WordPress-based applications."
+msgstr ""
+"Soy desarrollador web desde 2017. Actualmente vivo en Banyoles y mi objetivo "
+"a corto-medio plazo \n"
+"                            es encontrar un trabajo que me permita trabajar "
+"como desarrollador web en aplicaciones basadas en WordPress."
+
+#: admin/includes/personal_info.php:47
+msgid ""
+"About my studies, I completed a course that accredits me professionally as a "
+"web developer \n"
+"                            at Adams Girona academy. On the other hand, and "
+"in relation to my work experience, I had \n"
+"                            the opportunity to work as a web developer in an "
+"online shop dedicated to spearfishing products and also, \n"
+"                            in an IT engineering shop performing tasks "
+"related to website installation and maintenance, and customer service \n"
+"                            (usually WordPress or Joomla applications)."
+msgstr ""
+"Sobre mis estudios, realicé un curso que me acredita profesionalmente como "
+"desarrollador web \n"
+"                            en la academia Adams Girona. Por otro lado, y en "
+"relación a mi experiencia laboral, he tenido \n"
+"                            la oportunidad de trabajar como desarrollador "
+"web en una tienda online dedicada a productos de pesca submarina y también,\n"
+"                            en una empresa especializada en ingeniería "
+"informática realizando tareas relacionadas con la instalación y "
+"mantenimiento de sitios web y atención al cliente\n"
+"                            (generalmente aplicaciones web basadas en "
+"WordPress o Joomla)."
+
+#: admin/includes/personal_info.php:58
+msgid ""
+"Despite not being a pure programmer, I know WordPress and Joomla CMS very "
+"well. I enjoy working with CSS and JavaScript, \n"
+"                            although I also have fun with PHP. If I had to "
+"choose 3 WordPress plugins, they would be the \n"
+"                            \"Contact Form 7\" plugin because its "
+"versatility constructing forms, the \"UpdraftPlus - Backup/Restore\" "
+"plugin \n"
+"                            considering that allows you create backups so, "
+"it's very easy to accomplish the website import/export task \n"
+"                            and finally, the \"Ipanema Twitter Feed\" plugin "
+"owing you to add till five different twitter feeds in a website. \n"
+"                            Precisely, during the last weeks I've been "
+"working on a couple of WordPress plugins. And after watching the result, \n"
+"                            I decided to do my CV in a plugin format. I know "
+"it's a non conventional way to do it but, at least it's a \n"
+"                            different way to present it and perhaps, an "
+"original one. I hope you like it."
+msgstr ""
+"A pesar de no ser un programador puro, conozco muy bien los CMS WordPress y "
+"Joomla. Me gusta trabajar con CSS y JavaScript, \n"
+"                            aunque también me divierto con PHP. Si tuviera "
+"que elegir 3 plugins de WordPress, serían el\n"
+"                            \"Contact Form 7\" por su versatilidad en la "
+"construcción de formularios, el \"UpdraftPlus - Backup/Restore\" \n"
+"                            ya que le permite crear copias de seguridad "
+"haciendo muy fácil las tareas de importación/exportación de un sitio web \n"
+"                            y por último, el \"Ipanema Twitter Feed\" que le "
+"permite agregar hasta cinco \"feeds\" diferentes de Twitter en un sitio "
+"web. \n"
+"                            Precisamente, durante las últimas semanas he "
+"estado trabajando en un par de plugins de WordPress. Y después de ver el "
+"resultado, \n"
+"                            decidí hacer mi CV en formato plugin. Sé que es "
+"una forma poco convencional pero al menos es una\n"
+"                            manera diferente de presentarlo y quizás, "
+"original. Espero que le guste."
+
+#: admin/includes/personal_info.php:83
+msgid "+34&nbsp;647354884"
+msgstr "+34&nbsp;647354884"
+
+#: admin/includes/personal_info.php:90
+msgid "Banyoles&nbsp;(17820)"
+msgstr "Banyoles&nbsp;(17820)"
+
+#: admin/includes/personal_info.php:97
+msgid "Download CV"
+msgstr "Descargar CV"
+
+#: admin/includes/personal_info.php:110
+msgid "LinkedIn Profile"
+msgstr "Perfil de LinkedIn"
+
+#: admin/includes/personal_info.php:119
+msgid "GitHub Profile"
+msgstr "Perfil de GitHub"
+
+#: admin/includes/personal_info.php:128
+msgid "Twitter Profile"
+msgstr "Perfil de Twitter"
+
+#: admin/includes/personal_info.php:144
+msgid "WordPress Media"
+msgstr "WordPress Media"
+
+#: admin/includes/prof_exp_4focs.php:19
+msgid "June 2014 - December 2017"
+msgstr "Junio 2014 - Diciembre 2017"
+
+#: admin/includes/prof_exp_4focs.php:20 admin/includes/prof_exp_i2l.php:20
+msgid "Cornellà del Terri"
+msgstr "Cornellà del Terri"
+
+#: admin/includes/prof_exp_4focs.php:25 admin/includes/prof_exp_4focs.php:30
+msgid "Restaurant 4 Focs"
+msgstr "Restaurant 4 Focs"
+
+#: admin/includes/prof_exp_4focs.php:39
+msgid "Greeted, seated, and served customers in the dining room and terrace"
+msgstr "Recibir y atender a los clientes en el comedor y la terraza"
+
+#: admin/includes/prof_exp_4focs.php:43
+msgid "Shared and explained specials to guests"
+msgstr "Explicar las ofertas especiales a los comensales"
+
+#: admin/includes/prof_exp_4focs.php:47
+msgid "Took food orders and drink orders from customers as needed"
+msgstr "Tomar pedidos"
+
+#: admin/includes/prof_exp_4focs.php:51
+msgid "Wine pairing suggestion"
+msgstr "Sugerencia con el maridaje de vinos"
+
+#: admin/includes/prof_exp_4focs.php:55 admin/includes/prof_exp_4focs.php:110
+#: admin/includes/prof_exp_4focs.php:114 admin/includes/prof_exp_i2l.php:54
+#: admin/includes/prof_exp_i2l.php:105 admin/includes/prof_exp_i2l.php:109
+#: admin/includes/prof_exp_matic.php:61 admin/includes/prof_exp_matic.php:168
+#: admin/includes/prof_exp_matic.php:172 admin/includes/prof_exp_spora.php:63
+#: admin/includes/prof_exp_spora.php:149 admin/includes/prof_exp_spora.php:153
+#: admin/includes/prof_skills.php:34
+msgid "Teamwork"
+msgstr "Trabajo en equipo"
+
+#: admin/includes/prof_exp_4focs.php:67 admin/includes/prof_exp_4focs.php:71
+#: admin/includes/prof_skills.php:62
+msgid "Multi-Tasking"
+msgstr "Multitarea"
+
+#: admin/includes/prof_exp_4focs.php:74
+msgid "#multitasking"
+msgstr "#multitarea"
+
+#: admin/includes/prof_exp_4focs.php:77
+msgid "#focus"
+msgstr "#concentración"
+
+#: admin/includes/prof_exp_4focs.php:87 admin/includes/prof_exp_4focs.php:91
+#: admin/includes/prof_exp_wwoof.php:106 admin/includes/prof_exp_wwoof.php:110
+msgid "Wine Culture"
+msgstr "Cultura del Vino"
+
+#: admin/includes/prof_exp_4focs.php:94 admin/includes/prof_exp_wwoof.php:113
+msgid "#wine"
+msgstr "#vino"
+
+#: admin/includes/prof_exp_4focs.php:97 admin/includes/prof_exp_wwoof.php:116
+msgid "#culture"
+msgstr "#cultura"
+
+#: admin/includes/prof_exp_4focs.php:100 admin/includes/prof_exp_wwoof.php:119
+msgid "#history"
+msgstr "#historia"
+
+#: admin/includes/prof_exp_4focs.php:117 admin/includes/prof_exp_i2l.php:112
+#: admin/includes/prof_exp_matic.php:175 admin/includes/prof_exp_spora.php:156
+msgid "#teamwork"
+msgstr "#trabajoenequipo"
+
+#: admin/includes/prof_exp_4focs.php:120 admin/includes/prof_exp_i2l.php:115
+#: admin/includes/prof_exp_matic.php:178 admin/includes/prof_exp_spora.php:159
+msgid "#success"
+msgstr "#éxito"
+
+#: admin/includes/prof_exp_i2l.php:19
+msgid "September 2022 - Present"
+msgstr "Septiembre 2022 - Actualidad"
+
+#: admin/includes/prof_exp_i2l.php:25
+msgid "i2L Research"
+msgstr "i2L Research"
+
+#: admin/includes/prof_exp_i2l.php:30
+msgid "I2L Research"
+msgstr "I2L Research"
+
+#: admin/includes/prof_exp_i2l.php:39
+msgid "Polytunnel nursery"
+msgstr "Invernadero politúnel"
+
+#: admin/includes/prof_exp_i2l.php:42
+msgid "Proper food plant care and treatment"
+msgstr "Cuidado y tratamiento adecuado de plantas alimenticias"
+
+#: admin/includes/prof_exp_i2l.php:45
+msgid "Efficacy trials"
+msgstr "Ensayos de eficacia"
+
+#: admin/includes/prof_exp_i2l.php:48
+msgid ""
+"Design and implementation of efficacy trials of phytosanitary products and "
+"biocides"
+msgstr ""
+"Diseño e implementación de ensayos de eficacia de productos fitosanitarios y "
+"biocidas"
+
+#: admin/includes/prof_exp_i2l.php:50
+msgid ""
+"Field work with plants, insects, chemical and biological applications "
+"combined with office and laboratory work"
+msgstr ""
+"Trabajo de campo con plantas, insectos, aplicaciones químicas y biológicas "
+"combinado con trabajo de oficina y laboratorio"
+
+#: admin/includes/prof_exp_i2l.php:85 admin/includes/prof_exp_i2l.php:89
+#: admin/includes/prof_skills.php:27
+msgid "Agriculture"
+msgstr "Agricultura"
+
+#: admin/includes/prof_exp_i2l.php:92
+msgid "#agriculture"
+msgstr "#agricultura"
+
+#: admin/includes/prof_exp_i2l.php:95
+msgid "#phytosanitary"
+msgstr "#fitosanitarios"
+
+#: admin/includes/prof_exp_icon.php:20
+msgid "Figueres"
+msgstr "Figueres"
+
+#: admin/includes/prof_exp_icon.php:25
+msgid "ICON, SL"
+msgstr "ICON, SL"
+
+#: admin/includes/prof_exp_icon.php:30
+msgid "ICON logo"
+msgstr "ICON logo"
+
+#: admin/includes/prof_exp_icon.php:39
+msgid "WordPress Website Development"
+msgstr "Desarrollo de Sitios Web WordPress"
+
+#: admin/includes/prof_exp_icon.php:45
+msgid "Basic GIMP"
+msgstr "GIMP Básico"
+
+#: admin/includes/prof_exp_icon.php:47 admin/includes/prof_exp_icon.php:136
+#: admin/includes/prof_exp_icon.php:140 admin/includes/prof_skills.php:69
+msgid "Business Skills"
+msgstr "Competencias empresariales"
+
+#: admin/includes/prof_exp_icon.php:62 admin/includes/prof_exp_icon.php:67
+#: admin/includes/prof_exp_matic.php:75 admin/includes/prof_exp_matic.php:80
+#: admin/includes/tab_resources.php:24 admin/includes/tech_skills.php:56
+msgid "WordPress"
+msgstr "WordPress"
+
+#: admin/includes/prof_exp_icon.php:70 admin/includes/prof_exp_matic.php:83
+msgid "#wordpress"
+msgstr "#wordpress"
+
+#: admin/includes/prof_exp_icon.php:73 admin/includes/prof_exp_matic.php:86
+#: admin/includes/prof_exp_matic.php:114
+msgid "#cms"
+msgstr "#cms"
+
+#: admin/includes/prof_exp_icon.php:76
+msgid "#webdesign "
+msgstr "#diseñoweb "
+
+#: admin/includes/prof_exp_icon.php:93
+msgid "#HTML5"
+msgstr "#HTML5"
+
+#: admin/includes/prof_exp_icon.php:96
+msgid "#CSS3"
+msgstr "#CSS3"
+
+#: admin/includes/prof_exp_icon.php:112 admin/includes/prof_exp_icon.php:117
+#: admin/includes/prof_exp_subprof.php:71
+#: admin/includes/prof_exp_subprof.php:76 admin/includes/tab_resources.php:85
+#: admin/includes/tech_skills.php:180
+msgid "GIMP"
+msgstr "GIMP"
+
+#: admin/includes/prof_exp_icon.php:120 admin/includes/prof_exp_subprof.php:79
+msgid "#gimp"
+msgstr "#gimp"
+
+#: admin/includes/prof_exp_icon.php:123 admin/includes/prof_exp_subprof.php:82
+msgid "#design"
+msgstr "#diseño"
+
+#: admin/includes/prof_exp_icon.php:126 admin/includes/prof_exp_subprof.php:85
+msgid "#creative"
+msgstr "#creatividad"
+
+#: admin/includes/prof_exp_icon.php:143
+msgid "#business"
+msgstr "#negocio"
+
+#: admin/includes/prof_exp_icon.php:146
+msgid "#branding"
+msgstr "#marca"
+
+#: admin/includes/prof_exp_matic.php:19
+msgid "July 2018 - August 2020"
+msgstr "Julio 2018 - Agosto 2020"
+
+#: admin/includes/prof_exp_matic.php:25
+msgid "Ingreda System, SL"
+msgstr "Ingreda System, SL"
+
+#: admin/includes/prof_exp_matic.php:30
+msgid "Matic logo"
+msgstr "Matic logo"
+
+#: admin/includes/prof_exp_matic.php:39
+msgid "Install, set up and maintain web pages"
+msgstr "Instalar, configurar y mantener páginas web"
+
+#: admin/includes/prof_exp_matic.php:42
+msgid "WP plugins"
+msgstr "WP plugins"
+
+#: admin/includes/prof_exp_matic.php:44
+msgid "e-commerce (woocommerce)"
+msgstr "e-commerce (woocommerce)"
+
+#: admin/includes/prof_exp_matic.php:46
+msgid "Copywriting"
+msgstr "Copywriting"
+
+#: admin/includes/prof_exp_matic.php:49
+msgid "CRUD applications development:"
+msgstr "Desarrollo de aplicaciones tipo CRUD:"
+
+#: admin/includes/prof_exp_matic.php:52
+msgid "User synchronization"
+msgstr "Sincronización de usuarios"
+
+#: admin/includes/prof_exp_matic.php:54
+msgid "Random gift for user registration"
+msgstr "Regalo aleatorio por registro de usuario"
+
+#: admin/includes/prof_exp_matic.php:58
+msgid "Customer service and support"
+msgstr "Servicio de atención al cliente y soporte"
+
+#: admin/includes/prof_exp_matic.php:102 admin/includes/prof_exp_matic.php:107
+#: admin/includes/tech_skills.php:67
+msgid "Joomla"
+msgstr "Joomla"
+
+#: admin/includes/prof_exp_matic.php:111
+msgid "#joomla"
+msgstr "#joomla"
+
+#: admin/includes/prof_exp_matic.php:117
+msgid "#webdevelopment"
+msgstr "#desarrolloweb"
+
+#: admin/includes/prof_exp_matic.php:127 admin/includes/tech_skills.php:91
+msgid "Create, Read, Update & Delete"
+msgstr "Crear, Leer, Actualizar & Eliminar"
+
+#: admin/includes/prof_exp_matic.php:131
+msgid "CRUD"
+msgstr "CRUD"
+
+#: admin/includes/prof_exp_matic.php:151 admin/includes/prof_exp_matic.php:155
+#: admin/includes/prof_skills.php:41
+msgid "Customer service"
+msgstr "Servicio de atención al cliente"
+
+#: admin/includes/prof_exp_matic.php:158
+msgid "#customerservice"
+msgstr "#atencióncliente"
+
+#: admin/includes/prof_exp_spora.php:19
+msgid "February 2015 - June 2016"
+msgstr "Febrero 2015 - Junio 2016"
+
+#: admin/includes/prof_exp_spora.php:20
+msgid "Salt"
+msgstr "Salt"
+
+#: admin/includes/prof_exp_spora.php:25 admin/includes/prof_exp_spora.php:30
+msgid "Spora - Serveis ambientals"
+msgstr "Spora - Serveis ambientals"
+
+#: admin/includes/prof_exp_spora.php:39
+msgid "Environnmental education"
+msgstr "Educación ambiental"
+
+#: admin/includes/prof_exp_spora.php:43
+msgid "Communication campaigns"
+msgstr "Campañas de concienciación"
+
+#: admin/includes/prof_exp_spora.php:47
+msgid "Selective waste collection"
+msgstr "Recogida selectiva de residuos"
+
+#: admin/includes/prof_exp_spora.php:51
+msgid "Door-to-door selective collection (DtD)"
+msgstr "Recogida selectiva Puerta a Puerta (PaP)"
+
+#: admin/includes/prof_exp_spora.php:55
+msgid "Domestic"
+msgstr "Doméstica"
+
+#: admin/includes/prof_exp_spora.php:57
+msgid "Commercial"
+msgstr "Comercial"
+
+#: admin/includes/prof_exp_spora.php:59
+msgid "User identification system maintenance (smart tags)"
+msgstr ""
+"Mantenimiento del sistema de identificación de usuarios (etiquetas "
+"inteligentes)"
+
+#: admin/includes/prof_exp_spora.php:78 admin/includes/prof_exp_spora.php:83
+#: admin/includes/prof_skills.php:48
+msgid "Recycling"
+msgstr "Reciclaje"
+
+#: admin/includes/prof_exp_spora.php:86
+msgid "#zerowaste"
+msgstr "#zerowaste"
+
+#: admin/includes/prof_exp_spora.php:89
+msgid "#sustainability"
+msgstr "#sostenibilidad"
+
+#: admin/includes/prof_exp_spora.php:99 admin/includes/prof_exp_spora.php:103
+#: admin/includes/prof_skills.php:55 admin/ipanema-cv-csg-admin.php:183
+msgid "Education"
+msgstr "Educación"
+
+#: admin/includes/prof_exp_spora.php:106
+msgid "#community"
+msgstr "#comunidad"
+
+#: admin/includes/prof_exp_spora.php:109
+msgid "#inspiration"
+msgstr "#inspiración"
+
+#: admin/includes/prof_exp_spora.php:112
+msgid "#success "
+msgstr "#éxito "
+
+#: admin/includes/prof_exp_subprof.php:19
+msgid "November 2017 - June 2018"
+msgstr "Noviembre 2017 - Junio 2018"
+
+#: admin/includes/prof_exp_subprof.php:20
+msgid "Cassà de la Selva"
+msgstr "Cassà de la Selva"
+
+#: admin/includes/prof_exp_subprof.php:25
+msgid "Subprof, SL"
+msgstr "Subprof, SL"
+
+#: admin/includes/prof_exp_subprof.php:27
+msgid "Subprof logo"
+msgstr "Subprof logo"
+
+#: admin/includes/prof_exp_subprof.php:35
+msgid "Set up Google Merchant Center."
+msgstr "Configurar Google Merchant Center."
+
+#: admin/includes/prof_exp_subprof.php:39
+msgid "Follow the product data specification"
+msgstr "Seguir las especificaciones de los datos de los productos"
+
+#: admin/includes/prof_exp_subprof.php:42
+msgid "Online store stock management."
+msgstr "Gestión de stock de tienda online."
+
+#: admin/includes/prof_exp_subprof.php:45
+msgid "Photo editing with GIMP"
+msgstr "Edición de imágenes con GIMP"
+
+#: admin/includes/prof_exp_subprof.php:47
+msgid "Product characteristics"
+msgstr "Características de los productos"
+
+#: admin/includes/prof_exp_subprof.php:49
+msgid "Database management"
+msgstr "Gestión de bases de datos"
+
+#: admin/includes/prof_exp_subprof.php:53
+msgid "CSS animations/effects in Christmas period. "
+msgstr "Animaciones/efectos CSS durante el periodo navideño. "
+
+#: admin/includes/prof_exp_subprof.php:56
+msgid "Create a holiday mood"
+msgstr "Crear entorno adecuado/navidadeño"
+
+#: admin/includes/prof_exp_subprof.php:98 admin/includes/tech_skills.php:214
+msgid "Google Merchant Center"
+msgstr "Google Merchant Center"
+
+#: admin/includes/prof_exp_subprof.php:103
+msgid "G Merchant Center"
+msgstr "G Merchant Center"
+
+#: admin/includes/prof_exp_subprof.php:107
+msgid "#googlemerchant"
+msgstr "#googlemerchant"
+
+#: admin/includes/prof_exp_subprof.php:117 admin/includes/tech_skills.php:127
+msgid "CSS3"
+msgstr "CSS3"
+
+#: admin/includes/prof_exp_subprof.php:121
+msgid "Let's play&nbsp;"
+msgstr "Me gusta&nbsp;"
+
+#: admin/includes/prof_exp_subprof.php:124
+msgid "music"
+msgstr "comer"
+
+#: admin/includes/prof_exp_subprof.php:125
+msgid "sports"
+msgstr "jugar"
+
+#: admin/includes/prof_exp_subprof.php:126
+msgid "snap"
+msgstr "saltar"
+
+#: admin/includes/prof_exp_subprof.php:127
+msgid "theatre"
+msgstr "cantar"
+
+#: admin/includes/prof_exp_subprof.php:128
+msgid "bingo"
+msgstr "viajar"
+
+#: admin/includes/prof_exp_wwoof.php:19
+msgid "June 2012 - August 2013"
+msgstr "Junio 2012 - Agosto 2013"
+
+#: admin/includes/prof_exp_wwoof.php:20
+msgid "Sawbridgeworth & Sedlescombe (UK)"
+msgstr "Sawbridgeworth & Sedlescombe (UK)"
+
+#: admin/includes/prof_exp_wwoof.php:25
+msgid "World Wide Opportunities on Organic Farms"
+msgstr "World Wide Opportunities on Organic Farms"
+
+#: admin/includes/prof_exp_wwoof.php:30
+msgid "WWOOF"
+msgstr "WWOOF"
+
+#: admin/includes/prof_exp_wwoof.php:39
+msgid "New experience"
+msgstr "Nuevas experiencias"
+
+#: admin/includes/prof_exp_wwoof.php:43 admin/includes/prof_exp_wwoof.php:83
+#: admin/includes/prof_exp_wwoof.php:87
+msgid "Travel"
+msgstr "Viajar"
+
+#: admin/includes/prof_exp_wwoof.php:47
+msgid "Farming"
+msgstr "Agricultura"
+
+#: admin/includes/prof_exp_wwoof.php:51
+msgid "Biodynamic wines"
+msgstr "Vinos biodinámicos"
+
+#: admin/includes/prof_exp_wwoof.php:90
+msgid "#travel"
+msgstr "#viajar"
+
+#: admin/includes/prof_exp_wwoof.php:93
+msgid "#nature"
+msgstr "#naturaleza"
+
+#: admin/includes/prof_exp_wwoof.php:96
+msgid "#experience"
+msgstr "#experiencia"
+
+#: admin/includes/prof_exp_wwoof.php:129 admin/includes/prof_exp_wwoof.php:133
+#: admin/includes/prof_skills.php:83
+msgid "Biodynamic Agriculture"
+msgstr "Agricultura biodinámica"
+
+#: admin/includes/prof_exp_wwoof.php:136
+msgid "#biodynamicfarming"
+msgstr "#agriculturabiodinámica"
+
+#: admin/includes/tab_music.php:41 admin/includes/tab_music.php:50
+msgid "Dire Straits"
+msgstr "Dire Straits"
+
+#: admin/includes/tab_music.php:42
+msgid "Mark Knopfler - vocals, lead and rhythm guitars"
+msgstr "Mark Knopfler - voz, guitarra principal y rítmica"
+
+#: admin/includes/tab_music.php:43
+msgid "David Knopfler - rhythm guitar, backing vocals"
+msgstr "David Knopfler - guitarra rítmica, coros"
+
+#: admin/includes/tab_music.php:44
+msgid "John Illsley - bass guitar, backing vocals"
+msgstr "John Illsley - bajo, coros"
+
+#: admin/includes/tab_music.php:45
+msgid "Pick Withers - drums"
+msgstr "Púa Withers - batería"
+
+#: admin/includes/tab_music.php:55 admin/includes/tab_music.php:97
+#: admin/includes/tab_music.php:137
+msgid "Your browser does not support the audio element."
+msgstr "Su navegador no es compatible con la pista de audio."
+
+#: admin/includes/tab_music.php:59 admin/includes/tab_music.php:101
+#: admin/includes/tab_music.php:141
+msgid "Recording"
+msgstr "Recording"
+
+#: admin/includes/tab_music.php:63 admin/includes/tab_music.php:105
+#: admin/includes/tab_music.php:145
+msgid "Read more"
+msgstr "Leer más"
+
+#: admin/includes/tab_music.php:64
+msgid ""
+"Dire Straits was recorded at Basing Street Studios in London from 13 "
+"February to 5 March 1978. \n"
+"                                                Knopfler used a few guitars "
+"for the recording, \n"
+"                                                including a pair of red "
+"Fender Stratocasters — one from 1961 \n"
+"                                                and one from 1962. He played "
+"his 1938 National Style O 14 fret guitar \n"
+"                                                on \"Water of Love\" and "
+"\"Wild West End\". \n"
+"                                                He also used a black "
+"Telecaster Thinline..."
+msgstr ""
+"Dire Straits se grabó en Basing Street Studios en Londres del 13 de febrero "
+"al 5 de marzo de 1978. \n"
+"                                                Knopfler usó algunas "
+"guitarras para la grabación, \n"
+"                                                incluyendo un par de Fender "
+"Stratocasters rojas — una de 1961\n"
+"                                                y una de 1962. Tocó su "
+"guitarra National Style O de 1938 de 14 trastes.\n"
+"                                                en \"Water of Love\" y "
+"\"Wild West End\". \n"
+"                                                También usó una Telecaster "
+"Thinline negra..."
+
+#: admin/includes/tab_music.php:73
+msgid "DIRE STRAIS (1978)"
+msgstr "DIRE STRAIS (1978)"
+
+#: admin/includes/tab_music.php:82 admin/includes/tab_music.php:92
+msgid "Pink Floyd"
+msgstr "Pink Floyd"
+
+#: admin/includes/tab_music.php:83
+msgid "Syd Barrett - lead and rhythm guitars, vocals"
+msgstr "Syd Barrett - guitarra principal y rítmica, voz"
+
+#: admin/includes/tab_music.php:84
+msgid ""
+"David Gilmour - lead and rhythm guitars, vocals, bass, keyboards, "
+"synthesisers"
+msgstr ""
+"David Gilmour: guitarra principal y rítmica, voz, bajo, teclados, "
+"sintetizadores"
+
+#: admin/includes/tab_music.php:85
+msgid "Roger Waters - bass, vocals, rhythm guitar, synthesisers"
+msgstr "Roger Waters - bajo, voz, guitarra rítmica, sintetizadores"
+
+#: admin/includes/tab_music.php:86
+msgid "Richard Wright - keyboards, piano, organ, synthesisers, vocals"
+msgstr "Richard Wright - teclados, piano, órgano, sintetizadores, voz"
+
+#: admin/includes/tab_music.php:87
+msgid "Nick Mason - drums, percussion, vocals"
+msgstr "Nick Mason - batería, percusión, voz"
+
+#: admin/includes/tab_music.php:106
+msgid ""
+"Pink Floyd recorded The Dark Side of the Moon between May 1972 and January "
+"1973 with\n"
+"                                             EMI staff engineer Alan Parsons "
+"at Abbey Road. The title is an allusion to lunacy \n"
+"                                             rather than astronomy. The band "
+"had composed and \n"
+"                                             refined the material while "
+"touring the UK..."
+msgstr ""
+"Pink Floyd grabó The Dark Side of the Moon entre mayo de 1972 y enero de "
+"1973 con\n"
+"                                             el ingeniero de personal de "
+"EMI, Alan Parsons, en Abbey Road. El título es una alusión a la locura \n"
+"                                             en lugar de la astronomía. La "
+"banda había compuesto y\n"
+"                                             trabajado el material mientras "
+"estaba de gira por el Reino Unido..."
+
+#: admin/includes/tab_music.php:113
+msgid "The Dark Side of the Moon (1973)"
+msgstr "The Dark Side of the Moon (1973)"
+
+#: admin/includes/tab_music.php:122 admin/includes/tab_music.php:132
+msgid "AC&#9889;DC"
+msgstr "AC&#9889;DC"
+
+#: admin/includes/tab_music.php:123
+msgid "Bon Scott - lead vocals, bass, keyboards, synthesisers"
+msgstr "Bon Scott - voz principal, bajo, teclados, sintetizadores"
+
+#: admin/includes/tab_music.php:124
+msgid "Angus Young - lead guitar"
+msgstr "Angus Young - guitarra solista"
+
+#: admin/includes/tab_music.php:125
+msgid "Malcolm Young - rhythm guitar, backing vocals"
+msgstr "Malcolm Young - guitarra rítmica, coros"
+
+#: admin/includes/tab_music.php:126
+msgid "Cliff Williams - bass, backing vocals"
+msgstr "Cliff Williams - bajo, coros"
+
+#: admin/includes/tab_music.php:127
+msgid "Phil Rudd - drums"
+msgstr "Phil Rudd - batería"
+
+#: admin/includes/tab_music.php:146
+msgid ""
+"Recording commenced at the Roundhouse Studios in Chalk Farm, north London in "
+"March 1979.\n"
+"                                             In his book Highway to Hell, "
+"Clinton Walker writes, \"The band virtually moved into the\n"
+"                                             Roundhouse Studios in Chalk "
+"Farm, spending the best part of three months there. \n"
+"                                             That, to start with, was a "
+"shock to AC/DC, who had never previously spent more than three weeks on any "
+"one album... \n"
+"                                             Sessions for the album — 15 "
+"hours a day, day-in day-out, for over two months — were gruelling. \n"
+"                                             Songs were worked and reworked."
+"\"..."
+msgstr ""
+"La grabación comenzó en los estudios Roundhouse en Chalk Farm, al norte de "
+"Londres, en marzo de 1979.\n"
+"                                             En su libro Highway to Hell, "
+"Clinton Walker escribe: \"La banda virtualmente se mudó en los\n"
+"                                             Roundhouse Studios en Chalk "
+"Farm, pasando allí mucho tiempo durante tres meses.\n"
+"                                             Eso, para empezar, fue un shock "
+"para AC/DC, que nunca antes había pasado más de tres semanas en un solo "
+"álbum...\n"
+"                                             Las sesiones para el álbum, 15 "
+"horas al día, día tras día, durante más de dos meses — fueron agotadoras.\n"
+"                                             Las canciones fueron trabajadas "
+"y reelaboradas.\"..."
+
+#: admin/includes/tab_music.php:155
+msgid "HIGHWAY TO HELL (1979)"
+msgstr "HIGHWAY TO HELL (1979)"
+
+#: admin/includes/tab_resources.php:35
+msgid "W3Schools"
+msgstr "W3Schools"
+
+#: admin/includes/tab_resources.php:45
+msgid "PHP"
+msgstr "PHP"
+
+#: admin/includes/tab_resources.php:55
+msgid "MDN Web Docs"
+msgstr "MDN Web Docs"
+
+#: admin/includes/tab_resources.php:65
+msgid "Codepen"
+msgstr "Codepen"
+
+#: admin/includes/tab_resources.php:75
+msgid "Stack Overflow"
+msgstr "Stack Overflow"
+
+#: admin/includes/tab_resources.php:105
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: admin/includes/tab_resources.php:115
+msgid "Wikipedia"
+msgstr "Wikipedia"
+
+#: admin/includes/tab_resources.php:125
+msgid "Unsplash"
+msgstr "Unsplash"
+
+#: admin/includes/tech_skills.php:120
+msgid "HTML5"
+msgstr "HTML5"
+
+#: admin/includes/weather_app/weather_app.php:34
+msgid "Enter city name"
+msgstr "Introduce el nombre de la ciudad"
+
+#: admin/includes/weather_app/weather_app.php:40
+msgid "Get Device Location"
+msgstr "Obtener Ubicación Dispositivo"
+
+#: admin/includes/weather_app/weather_app.php:48
+#: admin/includes/weather_app/weather_app.php:49
+msgid "Weather Icon"
+msgstr "Weather Icon"
+
+#: admin/includes/weather_app/weather_app.php:71
+msgid "Feels like"
+msgstr "Sensación tér."
+
+#: admin/includes/weather_app/weather_app.php:76
+msgid "Humidity"
+msgstr "Humedad"
+
+#: admin/includes/weather_app/weather_app.php:83
+msgid "Wind"
+msgstr "Viento"
+
+#: admin/includes/weather_app/weather_app.php:88
+msgid "Atm. Pressure"
+msgstr "Presión atm."
+
+#: admin/includes/weather_app/weather_app.php:98
+msgid "Visit OpenWeather"
+msgstr "Visita OpenWeather"
+
+#: admin/includes/wp_skills.php:25
+msgid "Ipanema Film Reviews"
+msgstr "Ipanema Film Reviews"
+
+#: admin/includes/wp_skills.php:33
+msgid ""
+"This plugin lets you add a film review system to your WordPress site. \n"
+"                                            Using custom post types, "
+"administrators will be able to \n"
+"                                            create and edit film reviews to "
+"be published on your site."
+msgstr ""
+"Este complemento le permite agregar un sistema de reseñas de películas a su "
+"sitio web de WordPress.\n"
+"                                            Usando publicaciones "
+"personalizadas, los administradores podrán\n"
+"                                            crear, editar y publicar reseñas "
+"de películas en el sitio web de WordPress."
+
+#: admin/includes/wp_skills.php:49
+msgid "Ipanema Twitter Feed"
+msgstr "Ipanema Twitter Feed"
+
+#: admin/includes/wp_skills.php:57
+msgid ""
+"This plugin lets you add various twitter feeds into your WordPress site. \n"
+"                                            Using a shortcode, "
+"administrators will be able to add twitter feeds \n"
+"                                            in any page or post."
+msgstr ""
+"Este complemento le permite agregar varios \"feeds de Twitter\" en su sitio "
+"web de WordPress.\n"
+"                                            Utilizando \"shortcodes\", los "
+"administradores podrán agregar feeds de Twitter\n"
+"                                            en cualquier página o "
+"publicación del sitio web de WordPress."
+
+#: admin/ipanema-cv-csg-admin.php:63 admin/ipanema-cv-csg-admin.php:64
+#: admin/ipanema-cv-csg-admin.php:102
+msgid "Curriculum vitae"
+msgstr "Curriculum vitae"
+
+#: admin/ipanema-cv-csg-admin.php:75 admin/ipanema-cv-csg-admin.php:76
+#: admin/ipanema-cv-csg-admin.php:133
+msgid "Cover Letter"
+msgstr "Carta de presentación"
+
+#: admin/ipanema-cv-csg-admin.php:152
+msgid "Music"
+msgstr "Música"
+
+#: admin/ipanema-cv-csg-admin.php:158
+msgid "Resources"
+msgstr "Recursos"
+
+#: admin/ipanema-cv-csg-admin.php:162
+msgid "Curriculum vitae "
+msgstr "Curriculum vitae "
+
+#: admin/ipanema-cv-csg-admin.php:163
+msgid ""
+"I decided to add the music I love and the resources that I use to work with."
+msgstr ""
+"He decidido añadir la múscia que me gusta y las fuentes que acostumbro a "
+"utilizar."
+
+#: admin/ipanema-cv-csg-admin.php:171
+msgid "Personal Details"
+msgstr "Información Personal"
+
+#: admin/ipanema-cv-csg-admin.php:177
+msgid "Experience"
+msgstr "Experiencia"
+
+#: admin/ipanema-cv-csg-admin.php:195
+msgid "Skills"
+msgstr "Competencias"
+
+#: admin/ipanema-cv-csg-admin.php:253
+msgid "Technical officer"
+msgstr "Oficial técnico"
+
+#: admin/ipanema-cv-csg-admin.php:292
+msgid "Front-end Web Developer (internship)"
+msgstr "Desarrollador Front-end (prácticas)"
+
+#: admin/ipanema-cv-csg-admin.php:305
+msgid "Environmental educator"
+msgstr "Educador ambiental"
+
+#: admin/ipanema-cv-csg-admin.php:318
+msgid "Waiter / Barman"
+msgstr "Camarero"
+
+#: admin/ipanema-cv-csg-admin.php:331
+msgid "Volunteer"
+msgstr "Voluntario"
+
+#: admin/ipanema-cv-csg-admin.php:356
+msgid "Master's degree in Renewable Energies and Energy Sustainability"
+msgstr ""
+"Máster Universitario en Energías Renovables y Sostenibilidad Energética"
+
+#: admin/ipanema-cv-csg-admin.php:371
+msgid "Web development Professional Standards Certificate"
+msgstr ""
+"Certificado de Profesionalidad de Desarrollo de Aplicaciones con Tecnología "
+"Web"
+
+#: admin/ipanema-cv-csg-admin.php:386
+msgid "Bachelor degree in Environmental Science"
+msgstr "Licenciatura en Ciencias Ambientales"
+
+#: admin/ipanema-cv-csg-admin.php:401
+msgid "GFGS in Environmental chemistry"
+msgstr "CFGS en Química Ambiental"
+
+#: admin/ipanema-cv-csg-admin.php:425
+msgid "English B2 Level Certificate"
+msgstr "Certificado de nivel intermedio de Inglés B2"
+
+#: admin/ipanema-cv-csg-admin.php:440
+msgid "English B1 Level Certificate"
+msgstr "Certificado de nivel intermedio de Inglés B1"
+
+#: admin/ipanema-cv-csg-admin.php:460
+msgid "Technical & Software"
+msgstr "Técnicas y de Software"
+
+#: admin/ipanema-cv-csg-admin.php:474
+msgid "Professional"
+msgstr "Profesionales"
+
+#: admin/ipanema-cv-csg-admin.php:488
+msgid "Plugin Developer"
+msgstr "Desarollador de Plugins"
+
+#~ msgid "#history "
+#~ msgstr "#historia "

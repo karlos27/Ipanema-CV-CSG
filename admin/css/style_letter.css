@@ -1,0 +1,16 @@
+/**
+ * File Name: style_letter.css
+ * Folder Path: include/admin/css
+ * Plugin Name : Ipanema CV CSG
+ * Resources:
+ * https://codepen.io/EricPorter/pen/JjPmOOb
+ * 
+
+ **/
+
+/* General */
+.container-letter {background-color: #fff;}
+.montserrat{ font-family: 'Montserrat', sans-serif; }
+.tothetop {padding-top: 2%;}
+.letter-header-date {float: right;}
+.letter-body {text-align: justify;}
